@@ -1,12 +1,7 @@
-# NodeFrams
+## NodeFrams
 
-
-
-
-
-
-## `Used advanced Technologies`
+### `Used advanced Technologies`
 - HTML
 - CSS 
-- BootStrap
+- BootStrap @5
 - Node.js
