@@ -3,5 +3,5 @@
 ### `Used advanced Technologies`
 - HTML
 - CSS 
-- BootStrap @5
+- BootStrap
 - Node.js
