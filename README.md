@@ -3,7 +3,7 @@
 ### `Used advanced Technologies`
 
 
--` HTML`
-- `CSS `
+- `HTML`
+- `CSS`
 - `BootStrap`
 - `Node.js`
